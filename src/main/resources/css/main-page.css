@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+#header {
+    width: 900px;
+    height: 200px;
+    background-color: #25B33f;
+     margin-bottom: 10px;
+}
+
+h1 {
+    color: blue;
+    font: 40px Georgia;
+    margin-left: 300px;
+}
+
+
